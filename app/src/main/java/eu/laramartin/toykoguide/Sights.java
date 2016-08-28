@@ -9,6 +9,15 @@ public class Sights {
 
     public static void initSightsList(List<Location> list) {
 
+        list.add(new Location(
+                "Ghibli Museum",
+                "Museum showcasing the work of the Japanese animation studio Studio Ghibli.",
+                "1-1-83 Simorenjaku, Mitaka-shi Tokyo 181-0013",
+                "+81 570-055-777",
+                "10:00–18:00. Tuesdays closed.",
+                "110-330¥",
+                -1
+        ));
 
     }
 
