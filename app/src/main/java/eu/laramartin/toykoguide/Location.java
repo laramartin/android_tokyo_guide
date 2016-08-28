@@ -98,5 +98,17 @@ public class Location {
         return imageResourceId != NO_IMAGE_PROVIDED;
     }
 
+    @Override
+    public String toString() {
+        String output = getName() + "\n" +
+                getDescription() + "\n" +
+                getAddress() + "\n" +
+                getPhone() + "\n" +
+                getPrice() + "\n" +
+                getSchedule() + "\n" +
+                getImageResourceId()
+                ;
 
+        return output;
+    }
 }
