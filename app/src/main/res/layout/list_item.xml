@@ -40,13 +40,16 @@
                 android:layout_height="wrap_content"
                 android:text=""
                 android:autoLink="map"
+                android:drawableLeft="@drawable/ic_add_location_black_24dp"
                 style="@style/locationAddressSchedulePricePhone"/>
 
             <TextView
                 android:id="@+id/scheduleTextView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text=""/>
+                android:text=""
+                android:drawableLeft="@drawable/ic_watch_later_black_24dp"
+                style="@style/locationAddressSchedulePricePhone"/>
 
             <TextView
                 android:id="@+id/priceTextView"
@@ -61,6 +64,7 @@
                 android:layout_height="wrap_content"
                 android:text=""
                 android:autoLink="phone"
+                android:drawableLeft="@drawable/ic_phone_black_24dp"
                 style="@style/locationAddressSchedulePricePhone"/>
 
         </LinearLayout>
