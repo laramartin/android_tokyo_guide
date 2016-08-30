@@ -17,25 +17,30 @@
                 android:id="@+id/photoImageView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:scaleType="fitStart"
                 />
 
             <TextView
                 android:id="@+id/nameTextView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text=""/>
+                android:text=""
+                style="@style/locationTitle"/>
 
             <TextView
                 android:id="@+id/descriptionTextView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text=""/>
+                android:text=""
+                style="@style/locationDescription"/>
 
             <TextView
                 android:id="@+id/addressTextView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text=""/>
+                android:text=""
+                android:autoLink="map"
+                style="@style/locationAddressSchedulePricePhone"/>
 
             <TextView
                 android:id="@+id/scheduleTextView"
@@ -47,13 +52,16 @@
                 android:id="@+id/priceTextView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text=""/>
+                android:text=""
+                style="@style/locationAddressSchedulePricePhone"/>
 
             <TextView
                 android:id="@+id/phoneTextView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text=""/>
+                android:text=""
+                android:autoLink="phone"
+                style="@style/locationAddressSchedulePricePhone"/>
 
         </LinearLayout>
 
