@@ -16,7 +16,7 @@ public class Sights {
                 "+81 570-055-777",
                 "10:00–18:00. Tuesdays closed.",
                 "110-330¥",
-                -1
+                R.drawable.sights_ghibli_museum
         ));
 
         list.add(new Location(
@@ -26,7 +26,7 @@ public class Sights {
                 "+81 570-055-777",
                 "10:00–18:00. Tuesdays closed.",
                 "110-330¥",
-                -1
+                R.drawable.sights_ghibli_museum
         ));
 
         list.add(new Location(
@@ -36,7 +36,7 @@ public class Sights {
                 "+81 570-055-777",
                 "10:00–18:00. Tuesdays closed.",
                 "110-330¥",
-                -1
+                R.drawable.sights_ghibli_museum
         ));
 
         list.add(new Location(
@@ -46,7 +46,7 @@ public class Sights {
                 "+81 570-055-777",
                 "10:00–18:00. Tuesdays closed.",
                 "110-330¥",
-                -1
+                R.drawable.sights_ghibli_museum
         ));
 
         list.add(new Location(
@@ -56,7 +56,7 @@ public class Sights {
                 "+81 570-055-777",
                 "10:00–18:00. Tuesdays closed.",
                 "110-330¥",
-                -1
+                R.drawable.sights_ghibli_museum
         ));
 
         list.add(new Location(
@@ -66,7 +66,7 @@ public class Sights {
                 "+81 570-055-777",
                 "10:00–18:00. Tuesdays closed.",
                 "110-330¥",
-                -1
+                R.drawable.sights_ghibli_museum
         ));
 
         list.add(new Location(
@@ -76,7 +76,7 @@ public class Sights {
                 "+81 570-055-777",
                 "10:00–18:00. Tuesdays closed.",
                 "110-330¥",
-                -1
+                R.drawable.sights_ghibli_museum
         ));
 
         list.add(new Location(
@@ -86,7 +86,7 @@ public class Sights {
                 "+81 570-055-777",
                 "10:00–18:00. Tuesdays closed.",
                 "110-330¥",
-                -1
+                R.drawable.sights_ghibli_museum
         ));
 
         list.add(new Location(
@@ -96,7 +96,7 @@ public class Sights {
                 "+81 570-055-777",
                 "10:00–18:00. Tuesdays closed.",
                 "110-330¥",
-                -1
+                R.drawable.sights_ghibli_museum
         ));
 
     }
