@@ -1,6 +1,6 @@
 package eu.laramartin.toykoguide;
 
-import android.app.Activity;
+import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -15,7 +15,7 @@ import java.util.List;
  */
 public class LocationAdapter extends ArrayAdapter<Location> {
 
-    public LocationAdapter(Activity context, int resources, List<Location> locationsList) {
+    public LocationAdapter(Context context, int resources, List<Location> locationsList) {
         super(context, 0, locationsList);
     }
 
