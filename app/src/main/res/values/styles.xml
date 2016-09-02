@@ -24,4 +24,10 @@
         <item name="android:layout_margin">8dp</item>
         <item name="android:drawablePadding">8dp</item>
     </style>
+
+    <style name="tabs">
+        <item name="tabBackground">@color/colorPrimary</item>
+        <item name="tabIndicatorColor">@color/colorAccent</item>
+        <item name="tabSelectedTextColor">#FFFFFF</item>
+    </style>
 </resources>
