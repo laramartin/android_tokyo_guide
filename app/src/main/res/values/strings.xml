@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Toyko Guide</string>
+    <string name="category_sights">Sights</string>
+    <string name="category_clubs">Clubs</string>
+    <string name="category_shops">Shops</string>
+    <string name="category_food">Food</string>
 </resources>
