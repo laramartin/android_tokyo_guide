@@ -27,8 +27,31 @@ public class Food {
                 "+81 3-3599-5144",
                 "Mo-Su 11:00–22:00",
                 "$$",
-                R.drawable.food_genki_sushi
+                R.drawable.food_tonkatsu_wako
         ));
+
+        list.add(new Location(
+                "Rokumonya",
+                "Restaurant specialised in Okonomiyaki, a Japanese savoury pancake containing " +
+                        "a variety of ingredients",
+                "3 Chome−35, Shinjuku, Tokyo 160-0022",
+                "+81 3-3356-6824",
+                "Mo-Su 11:30–23:30",
+                "$$",
+                R.drawable.shop_rokumonya_okonomiyaki
+        ));
+
+        list.add(new Location(
+                "Kisoji shinjukusanchōme mise",
+                "Restaurant specialised in sukiyaki and shabu shabu",
+                "3-17-5 New Fuji Building, Shinjuku, Tokyo, 160-0022",
+                "+81 3-3226-0667",
+                "Mo-Su 11:30–14:30 and 17:30-21:30",
+                "$$$$",
+                R.drawable.food_kisoji_shabushabu
+        ));
+
+
     }
 
 }
