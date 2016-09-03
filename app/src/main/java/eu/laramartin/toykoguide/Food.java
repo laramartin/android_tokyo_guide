@@ -10,16 +10,25 @@ public class Food {
     public static void initFoodsList(List<Location> list) {
 
         list.add(new Location(
-                "Super Potato",
-                "Chain of retro video game stores filed with equipment and merchandise for games. " +
-                        "It includes vintage video game arcades.",
-                "1 Chome-11-2 Sotokanda, Chiyoda-ku, Tokyo 101-0021",
-                "+81 3-5289-9933",
-                "Mo-Fr 11:00–20:00. Sa-Su 10:00-20:00",
-                null,
-                R.drawable.shops_super_potato
+                "Genki Sushi",
+                "Sushi restaurant. Choose the food on the screen in your table and " +
+                        "recieve your order via conveyor belt",
+                "24-8 Udagawacho, Shibuya, Tokyo 150-0042",
+                "+81 3-3461-1281",
+                "Mo-Fr 11:00–24:00. Sa-Su 10:30-24:00",
+                "$$",
+                R.drawable.food_genki_sushi
         ));
 
+        list.add(new Location(
+                "Tonkatsu Wako",
+                "Restaurant specialised in Tonkatsu, fried pork cutlet.",
+                "AQUA CiTY ODAIBA, 1 Chome-7-1 Daiba, Minatoku Tokyo 135-0091",
+                "+81 3-3599-5144",
+                "Mo-Su 11:00–22:00",
+                "$$",
+                R.drawable.food_genki_sushi
+        ));
     }
 
 }
