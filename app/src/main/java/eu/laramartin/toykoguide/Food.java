@@ -51,6 +51,25 @@ public class Food {
                 R.drawable.food_kisoji_shabushabu
         ));
 
+        list.add(new Location(
+                "Gogo curry",
+                "Restaurant specialised in Japanese curry with fried meat on top",
+                "1 Chome−161, Kanda Sakumacho, Chiyoda, Tokyo, 101-0025",
+                "+81 3-5256-5525",
+                "Mo-Su 10:00–22:00",
+                "$",
+                R.drawable.food_gogo_curry
+        ));
+
+        list.add(new Location(
+                "Tenya",
+                "Restaurant specialised in Tendon, a bowl of rice with tempura fried food on top",
+                "3 Chome−3−31−2, Shinjuku, Tokyo, 160-0022",
+                "+81 3-5269-7216",
+                "Mo-Su 11:00–22:00",
+                "$",
+                R.drawable.food_tenya
+        ));
 
     }
 
