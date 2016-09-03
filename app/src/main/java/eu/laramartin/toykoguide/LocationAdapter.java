@@ -68,6 +68,11 @@ public class LocationAdapter extends ArrayAdapter<Location> {
             photoLocationImageView.setVisibility(View.GONE);
         }
 
+        if (currentLocation.hasPrice()){
+            priceLocationTextView.setVisibility(View.VISIBLE);
+        } else {
+            priceLocationTextView.setVisibility(View.GONE);
+        }
         return listItemView;
 
 

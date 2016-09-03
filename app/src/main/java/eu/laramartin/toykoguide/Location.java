@@ -98,6 +98,10 @@ public class Location {
         return imageResourceId != NO_IMAGE_PROVIDED;
     }
 
+    public boolean hasPrice(){
+        return getPrice() != null;
+    }
+
     @Override
     public String toString() {
         String output = getName() + "\n" +

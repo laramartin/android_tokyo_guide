@@ -24,7 +24,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
         } else if (position == 1) {
             return new SightsFragment();
         } else if (position == 2){
-            return new SightsFragment();
+            return new ShopsFragment();
         } else {
             return new SightsFragment();
         }
