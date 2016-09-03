@@ -26,7 +26,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
         } else if (position == 2){
             return new ShopsFragment();
         } else {
-            return new SightsFragment();
+            return new InfoFragment();
         }
     }
 
@@ -44,7 +44,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
         } else if (position == 2) {
             return context.getString(R.string.category_shops);
         } else {
-            return context.getString(R.string.category_clubs);
+            return context.getString(R.string.category_info);
         }
     }
 }

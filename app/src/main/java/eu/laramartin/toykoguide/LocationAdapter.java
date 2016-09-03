@@ -73,6 +73,25 @@ public class LocationAdapter extends ArrayAdapter<Location> {
         } else {
             priceLocationTextView.setVisibility(View.GONE);
         }
+
+        if (currentLocation.hasPrice()){
+            scheduleLocationTextView.setVisibility(View.VISIBLE);
+        } else {
+            scheduleLocationTextView.setVisibility(View.GONE);
+        }
+
+        if (currentLocation.hasPrice()){
+            addressLocationTextView.setVisibility(View.VISIBLE);
+        } else {
+            addressLocationTextView.setVisibility(View.GONE);
+        }
+
+        if (currentLocation.hasPrice()){
+            phoneLocationTextView.setVisibility(View.VISIBLE);
+        } else {
+            phoneLocationTextView.setVisibility(View.GONE);
+        }
+
         return listItemView;
 
 
