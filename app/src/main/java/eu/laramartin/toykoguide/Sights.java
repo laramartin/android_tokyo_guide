@@ -44,64 +44,41 @@ public class Sights {
         ));
 
         list.add(new Location(
-                "Ghibli Museum",
-                "Museum showcasing the work of the Japanese animation studio Studio Ghibli.",
-                "1-1-83 Simorenjaku, Mitaka-shi Tokyo 181-0013",
-                "+81 570-055-777",
-                "10:00–18:00. Tuesdays closed.",
-                "110-330¥",
-                R.drawable.sights_ghibli_museum
+                "Koishikawa Korakuen Garden",
+                "Edo period clan garden, one of Tokyo's oldest gardens. It was named Korakuen " +
+                        "after a poem encouraging a ruler to enjoy pleasure only after achieving " +
+                        "happiness for his people.",
+                "1-6-6 Koraku, Bunkyo, Tokyo 112-0004",
+                "+81 3-3811-3015",
+                "9:00-17:00",
+                "Free",
+                R.drawable.sights_koishikawa_korakuen_park
         ));
 
         list.add(new Location(
-                "Ghibli Museum",
-                "Museum showcasing the work of the Japanese animation studio Studio Ghibli.",
-                "1-1-83 Simorenjaku, Mitaka-shi Tokyo 181-0013",
-                "+81 570-055-777",
-                "10:00–18:00. Tuesdays closed.",
-                "110-330¥",
-                R.drawable.sights_ghibli_museum
+                "Hie Shrine",
+                "Shinto Shrine dedicated to the god Ōyamakui-no-kam. It's located in Nagatcho, " +
+                        "the Japanese seat of government, it sits amongst the sky scrappers.",
+                "2-10-5, Nagatachō Chiyoda, Tokyo 100-0014",
+                "+81 3-3581-2471",
+                "5:00–18:00.",
+                "Free",
+                R.drawable.sights_hie_shrine
         ));
 
         list.add(new Location(
-                "Ghibli Museum",
-                "Museum showcasing the work of the Japanese animation studio Studio Ghibli.",
-                "1-1-83 Simorenjaku, Mitaka-shi Tokyo 181-0013",
-                "+81 570-055-777",
-                "10:00–18:00. Tuesdays closed.",
-                "110-330¥",
-                R.drawable.sights_ghibli_museum
+                "Hachikō statue",
+                "Statue of the Akita dog Hachikō. He is remembered for his remarkable " +
+                        "loyalty to his owner which continued for more than nine years " +
+                        "after his owner's death.",
+                "1 Dogenzaka, Shibuya Train Station, Shibuya 150-0043,",
+                "+81 3-3378-1703",
+                "Always open",
+                "Free",
+                R.drawable.sights_hachiko_statue
         ));
 
-        list.add(new Location(
-                "Ghibli Museum",
-                "Museum showcasing the work of the Japanese animation studio Studio Ghibli.",
-                "1-1-83 Simorenjaku, Mitaka-shi Tokyo 181-0013",
-                "+81 570-055-777",
-                "10:00–18:00. Tuesdays closed.",
-                "110-330¥",
-                R.drawable.sights_ghibli_museum
-        ));
-
-        list.add(new Location(
-                "Ghibli Museum",
-                "Museum showcasing the work of the Japanese animation studio Studio Ghibli.",
-                "1-1-83 Simorenjaku, Mitaka-shi Tokyo 181-0013",
-                "+81 570-055-777",
-                "10:00–18:00. Tuesdays closed.",
-                "110-330¥",
-                R.drawable.sights_ghibli_museum
-        ));
-
-        list.add(new Location(
-                "Ghibli Museum",
-                "Museum showcasing the work of the Japanese animation studio Studio Ghibli.",
-                "1-1-83 Simorenjaku, Mitaka-shi Tokyo 181-0013",
-                "+81 570-055-777",
-                "10:00–18:00. Tuesdays closed.",
-                "110-330¥",
-                R.drawable.sights_ghibli_museum
-        ));
+        
 
     }
 
