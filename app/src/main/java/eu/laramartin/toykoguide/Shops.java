@@ -37,9 +37,29 @@ public class Shops {
                         "It includes a dozen small Mandarake stores.",
                 "5-52-15 Nakano, Tokyo 164-0001",
                 "+81 3-3388-7004",
-                "12:00–20:00",
+                "Mo-Su 12:00–20:00",
                 null,
                 R.drawable.shops_nakano_broadway
+        ));
+
+        list.add(new Location(
+                "Kiddy Land",
+                "Toy shop since 1950",
+                "6-1-9 Jingumae, Shibuya, Tokyo 150-0001",
+                "+81 3-3409-3431",
+                "Mo-Su 10:30–21:00",
+                null,
+                R.drawable.shops_kiddyland
+        ));
+
+        list.add(new Location(
+                "Daiso",
+                "Biggest 100 yen shop. ",
+                "1chome 2−2 Kabukicho, Shinjuku, Tokyo 160-0021",
+                "+81 3-5312-6656",
+                "Mo-Su 10:00–21:00",
+                null,
+                R.drawable.shops_daiso
         ));
 
     }
