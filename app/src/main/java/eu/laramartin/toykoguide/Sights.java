@@ -78,7 +78,18 @@ public class Sights {
                 R.drawable.sights_hachiko_statue
         ));
 
-        
+        list.add(new Location(
+                "Tokyo Metropolitan Government building",
+                "Headquarters of the Tokyo Metropolitan Government. It has a free observatory on " +
+                        "the 45th floor of both the North and South Towers",
+                "1, 2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo",
+                "+81 3-5321-1111",
+                "8:00-18:45. Weekends closed",
+                "Free",
+                R.drawable.sights_metropolitan_government_building
+        ));
+
+
 
     }
 
