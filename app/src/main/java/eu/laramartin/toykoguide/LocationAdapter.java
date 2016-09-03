@@ -74,19 +74,19 @@ public class LocationAdapter extends ArrayAdapter<Location> {
             priceLocationTextView.setVisibility(View.GONE);
         }
 
-        if (currentLocation.hasPrice()){
+        if (currentLocation.hasSchedule()){
             scheduleLocationTextView.setVisibility(View.VISIBLE);
         } else {
             scheduleLocationTextView.setVisibility(View.GONE);
         }
 
-        if (currentLocation.hasPrice()){
+        if (currentLocation.hasAddress()){
             addressLocationTextView.setVisibility(View.VISIBLE);
         } else {
             addressLocationTextView.setVisibility(View.GONE);
         }
 
-        if (currentLocation.hasPrice()){
+        if (currentLocation.hasPhone()){
             phoneLocationTextView.setVisibility(View.VISIBLE);
         } else {
             phoneLocationTextView.setVisibility(View.GONE);
