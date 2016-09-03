@@ -22,7 +22,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
         if (position == 0) {
             return new SightsFragment();
         } else if (position == 1) {
-            return new SightsFragment();
+            return new FoodFragment();
         } else if (position == 2){
             return new ShopsFragment();
         } else {
