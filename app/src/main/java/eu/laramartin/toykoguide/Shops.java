@@ -82,6 +82,26 @@ public class Shops {
                 R.drawable.shops_kinokuniya_bookstore
         ));
 
+        list.add(new Location(
+                "Bic Camera",
+                "Appliances Store",
+                "3 Chome-29-1 Shinjuku, Tokyo 160-0022",
+                "+81 3-3226-1111",
+                "Mo-Su 10:00–22:00",
+                null,
+                R.drawable.shop_bic_camera
+        ));
+
+        list.add(new Location(
+                "Don Quijote",
+                "Discount Store",
+                "1 Chome-12-6 Okubo, Shinjuku Tokyo 169-0072",
+                "+81 3-5292-7411",
+                "Mo-Su 10:00–22:00",
+                null,
+                R.drawable.shops_don_quijote
+        ));
+
     }
 
 

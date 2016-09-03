@@ -42,7 +42,7 @@ public class Food {
         ));
 
         list.add(new Location(
-                "Kisoji shinjukusanchōme mise",
+                "Kisoji",
                 "Restaurant specialised in sukiyaki and shabu shabu",
                 "3-17-5 New Fuji Building, Shinjuku, Tokyo, 160-0022",
                 "+81 3-3226-0667",

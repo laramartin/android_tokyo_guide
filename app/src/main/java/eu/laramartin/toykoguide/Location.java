@@ -102,6 +102,18 @@ public class Location {
         return getPrice() != null;
     }
 
+    public boolean hasPhone(){
+        return getPhone() != null;
+    }
+
+    public boolean hasAddress(){
+        return getAddress() != null;
+    }
+
+    public boolean hasSchedule(){
+        return getSchedule() != null;
+    }
+
     @Override
     public String toString() {
         String output = getName() + "\n" +
