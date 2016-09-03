@@ -62,6 +62,26 @@ public class Shops {
                 R.drawable.shops_daiso
         ));
 
+        list.add(new Location(
+                "Mandarake",
+                "Anime and manga second hand shop",
+                "3-11-12 Sotokanda, Chiyoda, Tokyo 101-0021",
+                "+81 3-3252-7007",
+                "Mo-Su 12:00–21:00",
+                null,
+                R.drawable.shops_mandarake
+        ));
+
+        list.add(new Location(
+                "Kinokuniya Shinjuku Main Store",
+                "Bookstore with 9 floors",
+                "3 Chome-17-7 Shinjuku, Tokyo 163-8636",
+                "+81 3-3354-0131",
+                "Mo-Su 10:00–21:00",
+                null,
+                R.drawable.shops_kinokuniya_bookstore
+        ));
+
     }
 
 
