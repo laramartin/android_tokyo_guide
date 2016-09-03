@@ -4,6 +4,8 @@
     android:layout_height="match_parent"
     android:id="@+id/listView"
     android:orientation="vertical"
-    android:drawSelectorOnTop="true">
+    android:drawSelectorOnTop="true"
+    android:divider="@null"
+    android:dividerHeight="0dp">
 
 </ListView>
