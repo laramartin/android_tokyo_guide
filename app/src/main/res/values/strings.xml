@@ -4,4 +4,46 @@
     <string name="category_info">Info</string>
     <string name="category_shops">Shops</string>
     <string name="category_food">Food</string>
+    <string name="food_genki_name">Genki Sushi</string>
+    <string name="food_genki_description">Sushi restaurant. Choose the food on the screen in your
+        table and recieve your order via conveyor belt.</string>
+    <string name="food_genki_address">24-8 Udagawacho, Shibuya, Tokyo 150-0042</string>
+    <string name="food_genki_phone">+81 3-3461-1281</string>
+    <string name="food_genki_schedule">Mo-Fr 11:00–24:00. Sa-Su 10:30-24:00</string>
+    <string name="food_price_two">$$</string>
+    <string name="food_wako_name">Tonkatsu Wako</string>
+    <string name="food_wako_description">Restaurant specialised in Tonkatsu, fried pork cutlet.</string>
+    <string name="food_wako_address">AQUA CiTY ODAIBA, 1 Chome-7-1 Daiba, Minatoku Tokyo 135-0091</string>
+    <string name="food_wako_phone">+81 3-3599-5144</string>
+    <string name="food_wako_schedule">\"Mo-Su 11:00–22:00</string>
+    <string name="food_rokumonya_name">Rokumonya</string>
+    <string name="food_rokumonya_description">Restaurant specialised in Okonomiyaki, a Japanese
+        savoury pancake containing a variety of ingredients.</string>
+    <string name="food_rokumonya_address">3 Chome−35, Shinjuku, Tokyo 160-0022</string>
+    <string name="food_rokumonya_phone">+81 3-3356-6824</string>
+    <string name="food_rokumonya_schedule">Mo-Su 11:30–23:30</string>
+    <string name="food_price_four">$$$$</string>
+    <string name="food_kisoji_name">Kisoji</string>
+    <string name="food_kisoji_description">Restaurant specialised in sukiyaki and shabu shabu.</string>
+    <string name="food_kisoji_address">3-17-5 New Fuji Building, Shinjuku, Tokyo, 160-0022</string>
+    <string name="food_kisoji_phone">+81 3-3226-0667</string>
+    <string name="food_kisoji_schedule">Mo-Su 11:30–14:30 and 17:30-21:30</string>
+    <string name="food_price_one">$</string>
+    <string name="food_gogo_name">Gogo curry</string>
+    <string name="food_gogo_description">Restaurant specialised in Japanese curry with
+        fried meat on top.</string>
+    <string name="food_gogo_address">1 Chome−161, Kanda Sakumacho, Chiyoda, Tokyo, 101-0025</string>
+    <string name="food_gogo_phone">+81 3-5256-5525</string>
+    <string name="food_gogo_schedule">Mo-Su 10:00–22:00</string>
+    <string name="food_tenya_name">Tenya</string>
+    <string name="food_tenya_description">Restaurant specialised in Tendon, a bowl of rice with
+        tempura fried food on top.</string>
+    <string name="food_tenya_address">3 Chome−3−31−2, Shinjuku, Tokyo, 160-0022</string>
+    <string name="food_tenya_phone">+81 3-5269-7216</string>
+    <string name="food_tenya_schedule">Mo-Su 11:00–22:00</string>
+    <string name="food_shibukatsu_name">Shitukatsu</string>
+    <string name="food_shibukatsu_description">Tonkatsu place run by Agetarou\'s family. Agetarou is also known as Tonkatsu DJ.</string>
+    <string name="food_shibukatsu_address">21−6, Udagawacho, Shibuya, Tokyo, 150-0042</string>
+    <string name="food_shibukatsu_phone">+81 3-0000-0000</string>
+    <string name="food_shibukatsu_schedule">Mo-Su 11:00–22:00</string>
 </resources>
