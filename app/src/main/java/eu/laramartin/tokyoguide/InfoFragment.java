@@ -1,9 +1,8 @@
-package eu.laramartin.toykoguide;
+package eu.laramartin.tokyoguide;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -15,7 +14,7 @@ import java.util.List;
 /**
  * Created by Lara on 03/09/2016.
  */
-public class ShopsFragment extends Fragment{
+public class InfoFragment extends Fragment {
 
     @Nullable
     @Override
@@ -23,10 +22,7 @@ public class ShopsFragment extends Fragment{
 
 
         List<Location> list = new ArrayList<>();
-        Shops.initShopsList(list);
-
-        Log.v("MainActivity", list.get(0).toString());
-
+        Info.initInfoList(list);
 
         LocationAdapter adapter = new LocationAdapter(getActivity(), -1, list);
         View view = inflater.inflate(R.layout.locations_list, container, false);

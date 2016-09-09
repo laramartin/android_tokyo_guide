@@ -1,4 +1,4 @@
-package eu.laramartin.toykoguide;
+package eu.laramartin.tokyoguide;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * Created by Lara on 03/09/2016.
  */
-public class InfoFragment extends Fragment {
+public class FoodFragment extends Fragment {
 
     @Nullable
     @Override
@@ -23,7 +23,10 @@ public class InfoFragment extends Fragment {
 
 
         List<Location> list = new ArrayList<>();
-        Info.initInfoList(list);
+        Food.initFoodsList(list);
+
+        Log.v("MainActivity", list.get(0).toString());
+
 
         LocationAdapter adapter = new LocationAdapter(getActivity(), -1, list);
         View view = inflater.inflate(R.layout.locations_list, container, false);
@@ -36,4 +39,5 @@ public class InfoFragment extends Fragment {
 
 
     }
+
 }

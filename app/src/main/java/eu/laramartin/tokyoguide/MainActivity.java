@@ -1,4 +1,4 @@
-package eu.laramartin.toykoguide;
+package eu.laramartin.tokyoguide;
 
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;

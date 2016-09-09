@@ -1,4 +1,4 @@
-package eu.laramartin.toykoguide;
+package eu.laramartin.tokyoguide;
 
 import android.content.Context;
 import android.support.v4.app.Fragment;

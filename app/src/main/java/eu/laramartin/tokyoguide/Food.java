@@ -1,4 +1,4 @@
-package eu.laramartin.toykoguide;
+package eu.laramartin.tokyoguide;
 
 import java.util.List;
 

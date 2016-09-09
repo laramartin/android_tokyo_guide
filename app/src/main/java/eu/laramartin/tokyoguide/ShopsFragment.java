@@ -1,4 +1,4 @@
-package eu.laramartin.toykoguide;
+package eu.laramartin.tokyoguide;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -13,9 +13,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by lara on 1/9/16.
+ * Created by Lara on 03/09/2016.
  */
-public class SightsFragment extends Fragment {
+public class ShopsFragment extends Fragment{
 
     @Nullable
     @Override
@@ -23,7 +23,7 @@ public class SightsFragment extends Fragment {
 
 
         List<Location> list = new ArrayList<>();
-        Sights.initSightsList(list);
+        Shops.initShopsList(list);
 
         Log.v("MainActivity", list.get(0).toString());
 

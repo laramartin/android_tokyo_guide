@@ -1,4 +1,4 @@
-package eu.laramartin.toykoguide;
+package eu.laramartin.tokyoguide;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -13,9 +13,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Lara on 03/09/2016.
+ * Created by lara on 1/9/16.
  */
-public class FoodFragment extends Fragment {
+public class SightsFragment extends Fragment {
 
     @Nullable
     @Override
@@ -23,7 +23,7 @@ public class FoodFragment extends Fragment {
 
 
         List<Location> list = new ArrayList<>();
-        Food.initFoodsList(list);
+        Sights.initSightsList(list);
 
         Log.v("MainActivity", list.get(0).toString());
 
@@ -39,5 +39,4 @@ public class FoodFragment extends Fragment {
 
 
     }
-
 }
