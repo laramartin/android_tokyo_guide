@@ -88,22 +88,5 @@ public class Sights {
                 "Free",
                 R.drawable.sights_metropolitan_government_building
         ));
-
-
-
     }
-
-
-   /* public Location(String name, String description, String address, String phone, String schedule,
-                    String price, int imageResourceId) {
-        this.name = name;
-        this.description = description;
-        this.address = address;
-        this.phone = phone;
-        this.schedule = schedule;
-        this.price = price;
-        this.imageResourceId = imageResourceId;
-    }*/
-
-
 }

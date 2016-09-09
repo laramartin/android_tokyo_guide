@@ -19,15 +19,6 @@ public class LocationAdapter extends ArrayAdapter<Location> {
         super(context, 0, locationsList);
     }
 
-
-
-    /*public LocationAdapter(Context context, int resource, int textViewResourceId,
-                           List<Location> objects) {
-
-        super(context, resource, textViewResourceId, objects);
-
-    }*/
-
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
 
@@ -38,7 +29,6 @@ public class LocationAdapter extends ArrayAdapter<Location> {
             listItemView = LayoutInflater.from(getContext()).inflate(
                     R.layout.list_item, parent, false);
         }
-
 
         TextView nameLocationTextView = (TextView) listItemView.findViewById(R.id.nameTextView);
         nameLocationTextView.setText(currentLocation.getName());
@@ -93,8 +83,6 @@ public class LocationAdapter extends ArrayAdapter<Location> {
         }
 
         return listItemView;
-
-
     }
 
 

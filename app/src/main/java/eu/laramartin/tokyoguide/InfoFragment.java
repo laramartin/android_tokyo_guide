@@ -20,7 +20,6 @@ public class InfoFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
-
         List<Location> list = new ArrayList<>();
         Info.initInfoList(list);
 
@@ -31,8 +30,5 @@ public class InfoFragment extends Fragment {
         listView.setAdapter(adapter);
 
         return view;
-
-
-
     }
 }

@@ -3,7 +3,6 @@ package eu.laramartin.tokyoguide;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -21,12 +20,8 @@ public class ShopsFragment extends Fragment{
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
-
         List<Location> list = new ArrayList<>();
         Shops.initShopsList(list);
-
-        Log.v("MainActivity", list.get(0).toString());
-
 
         LocationAdapter adapter = new LocationAdapter(getActivity(), -1, list);
         View view = inflater.inflate(R.layout.locations_list, container, false);
@@ -35,8 +30,5 @@ public class ShopsFragment extends Fragment{
         listView.setAdapter(adapter);
 
         return view;
-
-
-
     }
 }
