@@ -46,4 +46,71 @@
     <string name="food_shibukatsu_address">21−6, Udagawacho, Shibuya, Tokyo, 150-0042</string>
     <string name="food_shibukatsu_phone">+81 3-0000-0000</string>
     <string name="food_shibukatsu_schedule">Mo-Su 11:00–22:00</string>
+    <string name="info_internet_name">Internet</string>
+    <string name="info_internet_description">Rent a pocket WIFI to have internet access everywhere.
+        It is very convenient when travelling since most of the hotels have limited internet access.
+        It works even in the subway!</string>
+    <string name="info_konbini_name">Convenience stores</string>
+    <string name="info_konbini_description">Did you forget your toothbrush? Are you jet-lagged
+        and need a coffee fix at 4am?
+        \n\nYou need a konbini, a convenience store that is open 24/7. Here you will find from
+        food and drinks, to first necessity articles.
+        \n\nSome known konibini chains are:
+        \n- Lawson
+        \n- 7-Eleven
+        \n- FamilyMart
+        \n- Daily</string>
+    <string name="info_transport_name">Suica Prepaid Train Card</string>
+    <string name="info_transport_description">The Suica card is a prepaid smart card that
+        allows you to use most public transport (metro, trains, buses, monorail) in Japan.
+        The card is debited for every trip or purchase you make when you touch the card
+        to the reader.
+        \n\nThe Suica card was created by JR East, but can also be used throughout Japan
+        on the other prepaid card networks like Pasmo.</string>
+    <string name="shop_potato_name">Super Potato</string>
+    <string name="shop_potato_description">Chain of retro video game stores filed with equipment and merchandise for games. It includes vintage video game arcades.</string>
+    <string name="shop_potato_address">1 Chome-11-2 Sotokanda, Chiyoda-ku, Tokyo 101-0021</string>
+    <string name="shop_potato_phone">+81 3-5289-9933</string>
+    <string name="shop_potato_schedule">Mo-Fr 11:00–20:00. Sa-Su 10:00-20:00</string>
+    <string name="shop_amiami_name">Amiami</string>
+    <string name="shop_amiami_description">Hobbies supply shop, like figures and character goods.
+        Selling of second hand items too.</string>
+    <string name="shop_amiami_address">1 Chome-11-5 Sotokanda, , Chiyoda-ku, Tokyo 101-0021</string>
+    <string name="shop_amiami_phone">+81 3-5289-3373</string>
+    <string name="shop_amiami_schedule">Mo-Su 10:00–21:00</string>
+    <string name="shop_nakano_name">Nakano Broadway</string>
+    <string name="shop_nakano_description">Shopping complex full of stores selling anime items and idol goods. It includes a dozen small Mandarake stores.</string>
+    <string name="shop_nakano_address">5-52-15 Nakano, Tokyo 164-0001</string>
+    <string name="shop_nakano_phone">+81 3-3388-7004</string>
+    <string name="shop_nakano_schedule">Mo-Su 12:00–20:00</string>
+    <string name="shop_kiddy_name">Kiddy Land</string>
+    <string name="shop_kiddy_description">Toy shop since 1950</string>
+    <string name="shop_kiddy_address">6-1-9 Jingumae, Shibuya, Tokyo 150-0001</string>
+    <string name="shop_kiddy_phone">+81 3-3409-3431</string>
+    <string name="shop_kiddy_schedule">Mo-Su 10:30–21:00</string>
+    <string name="shop_daiso_name">Daiso</string>
+    <string name="shop_daiso_description">Biggest 100 yen shop.</string>
+    <string name="shop_daiso_address">1chome 2−2 Kabukicho, Shinjuku, Tokyo 160-0021</string>
+    <string name="shop_daiso_phone">+81 3-5312-6656</string>
+    <string name="shop_daiso_schedule">Mo-Su 10:00–21:00</string>
+    <string name="shop_mandarake_name">Mandarake</string>
+    <string name="shop_mandarake_description">Anime and manga second hand shop.</string>
+    <string name="shop_mandarake_address">3-11-12 Sotokanda, Chiyoda, Tokyo 101-0021</string>
+    <string name="shop_mandarake_phone">+81 3-3252-7007</string>
+    <string name="shop_mandarake_schedule">Mo-Su 12:00–21:00</string>
+    <string name="shop_kinokuniya_name">Kinokuniya Shinjuku Main Store</string>
+    <string name="shop_kinokuniya_description">Bookstore with 9 floors.</string>
+    <string name="shop_kinokuniya_address">3 Chome-17-7 Shinjuku, Tokyo 163-8636</string>
+    <string name="shop_kinokuniya_phone">+81 3-3354-0131</string>
+    <string name="shop_kinokuniya_schedule">Mo-Su 10:00–21:00</string>
+    <string name="shop_biccamera_name">Bic Camera</string>
+    <string name="shop_biccamera_description">Appliances Store.</string>
+    <string name="shop_biccamera_address">3 Chome-29-1 Shinjuku, Tokyo 160-0022</string>
+    <string name="shop_biccamera_phone">+81 3-3226-1111</string>
+    <string name="shop_biccamera_schedule">Mo-Su 10:00–22:00</string>
+    <string name="shop_donki_name">Don Quijote</string>
+    <string name="shop_donki_description">Discount Store</string>
+    <string name="shop_donki_address">1 Chome-12-6 Okubo, Shinjuku Tokyo 169-0072</string>
+    <string name="shop_donki_phone">+81 3-5292-7411</string>
+    <string name="shop_donki_schedule">Mo-Su 10:00–22:00</string>
 </resources>

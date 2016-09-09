@@ -21,7 +21,7 @@ public class ShopsFragment extends Fragment{
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
         List<Location> list = new ArrayList<>();
-        Shops.initShopsList(list);
+        Shops.initShopsList(list, getContext());
 
         LocationAdapter adapter = new LocationAdapter(getActivity(), -1, list);
         View view = inflater.inflate(R.layout.locations_list, container, false);
