@@ -113,4 +113,53 @@
     <string name="shop_donki_address">1 Chome-12-6 Okubo, Shinjuku Tokyo 169-0072</string>
     <string name="shop_donki_phone">+81 3-5292-7411</string>
     <string name="shop_donki_schedule">Mo-Su 10:00–22:00</string>
+    <string name="sight_ghibli_name">Ghibli Museum</string>
+    <string name="sight_ghibli_description">Museum showcasing the work of the Japanese animation studio Studio Ghibli.</string>
+    <string name="sight_ghibli_address">1-1-83 Simorenjaku, Mitaka-shi Tokyo 181-0013</string>
+    <string name="sight_ghibli_phone">+81 570-055-777</string>
+    <string name="sight_ghibli_schedule">10:00–18:00. Tuesdays closed.</string>
+    <string name="sight_ghibli_price">110-330¥</string>
+    <string name="sight_imperial_name">Tokyo Imperial Palace</string>
+    <string name="sight_imperial_description">It is a large park-like area that contains buildings
+        including the main palace, the private residences of the Imperial Family, an archive,
+        museums and administrative offices.</string>
+    <string name="sight_imperial_address">1-1 Chiyoda, Tokyo 100-8111</string>
+    <string name="sight_imperial_phone">+81 3-3213-1111</string>
+    <string name="sight_imperial_schedule"><![CDATA[9:00–17:00. Mondays & Fridays closed.]]></string>
+    <string name="sight_price_free">Free</string>
+    <string name="sight_yasukuni_name">Yasukuni Shrine</string>
+    <string name="sight_yasukuni_description">Shinto shrine founded by Emperor Meiji. Commemorates
+        those who died in service of the Empire of Japan, which existed from the Meiji
+        Restoration of 1869 until the nation was renamed during the Allied occupation in 1947.</string>
+    <string name="sight_yasukuni_address">3-1-1 Kudankita, Chiyoda, Tokyo 102-8246</string>
+    <string name="sight_yasukuni_phone">+81 3-3261-8326</string>
+    <string name="sight_yasukuni_schedule">Always open</string>
+    <string name="sight_koishikawa_name">Koishikawa Korakuen Garden</string>
+    <string name="sight_koishikawa_description">Edo period clan garden, one of Tokyo\'s oldest
+        gardens. It was named Korakuen after a poem encouraging a ruler to enjoy pleasure only
+        after achieving happiness for his people.</string>
+    <string name="sight_koishikawa_address">1-6-6 Koraku, Bunkyo, Tokyo 112-0004</string>
+    <string name="sight_koishikawa_phone">+81 3-3811-3015</string>
+    <string name="sight_koishikawa_schedule">9:00-17:00</string>
+    <string name="sight_hie_shrine_name">Hie Shrine</string>
+    <string name="sight_hie_shrine_description">Shinto Shrine dedicated to the god \Ōyamakui-no-kam.
+        It\'s located in Nagatcho, the Japanese seat of government, it sits amongst the sky
+        scrappers.</string>
+    <string name="sight_hie_shrine_address">2-10-5, Nagatach\ō Chiyoda, Tokyo 100-0014</string>
+    <string name="sight_hie_shrine_phone">+81 3-3581-2471</string>
+    <string name="sight_hie_shrine_schedule">5:00–18:00</string>
+    <string name="sight_hachikou_name">Hachik\ō statue</string>
+    <string name="sight_hachikou_description">Statue of the Akita dog Hachik\ō. He is remembered
+        for his remarkable loyalty to his owner which continued for more than nine years
+        after his owner\'s death.</string>
+    <string name="sight_hachikou_address">1 Dogenzaka, Shibuya Train Station, Shibuya 150-0043</string>
+    <string name="sight_hachikou_phone">+81 3-3378-1703</string>
+    <string name="sight_hachikou_schedule">Always open</string>
+    <string name="sight_government_building_name">Tokyo Metropolitan Government building</string>
+    <string name="sight_government_building_description">Headquarters of the Tokyo Metropolitan
+        Government. It has a free observatory on the 45th floor of both the
+        North and South Towers</string>
+    <string name="sight_government_building_address">1, 2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo</string>
+    <string name="sight_government_building_phone">+81 3-5321-1111</string>
+    <string name="sight_government_building_schedule">8:00-18:45. Weekends closed</string>
 </resources>
