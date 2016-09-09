@@ -71,6 +71,16 @@ public class Food {
                 R.drawable.food_tenya
         ));
 
+        list.add(new Location(
+                "Shitukatsu",
+                "Tonkatsu place run by Agetarou's family. Agetarou is also known as Tonkatsu DJ.",
+                "21−6, Udagawacho, Shibuya, Tokyo, 150-0042",
+                "+81 3-0000-0000",
+                "Mo-Su 11:00–22:00",
+                "$",
+                R.drawable.food_shibukatsu
+        ));
+
     }
 
 }
